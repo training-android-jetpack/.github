@@ -1,1 +1,8 @@
 = training android jetpack
+
+github organisation: https://github.com/training-android-jetpack[Training - Android Jetpack]
+
+== Travaux pratiques
+
+. https://github.com/training-android-jetpack/TP00AndroidAdb/[TP00AndroidAdb]
+. https://github.com/training-android-jetpack/TP01AndroidHelloWorld/[TP01AndroidHelloWorld]
