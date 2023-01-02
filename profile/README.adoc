@@ -4,5 +4,5 @@ github organisation: https://github.com/training-android-jetpack[Training - Andr
 
 == Travaux pratiques
 
-. https://github.com/training-android-jetpack/TP00AndroidAdb/[TP00AndroidAdb]
-. https://github.com/training-android-jetpack/TP01AndroidHelloWorld/[TP01AndroidHelloWorld]
+. https://github.com/training-android-jetpack/android_tp_00_adb/[android_tp_00_adb,windows="_blank"]
+. https://github.com/training-android-jetpack/android_tp_01_helloworld/[android_tp_01_helloworld,windows="_blank"]
